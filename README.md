@@ -1,2 +1,2 @@
-# Patrones-de-dise-o
+# Patrones-de-diseño
 Reservas de citas medicas
